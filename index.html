@@ -3,81 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo</title>
-
-    <style>
-        .Grupo1{
-            color: blue;
-        }
-
-        h2#Expe{
-            color: blue;
-        }
-
-        p#Titulo{
-            color: blue;
-        }
-
-        h2#Compe{
-            color: blue;
-        }
-
-        h2#Forma {
-            color: blue;
-        }
-    </style>
+    <title>Formulário</title>
 </head>
 <body>
-    <H1 id="topo">Beatriz Maia</H1>
-    <p><b>Nascimento:</b>14/08/2005</p>
-    <p><b>Email:</b>bbm4@aluno.ifal.edu.br</p>
-    <p><b>Telefone:</b>(82) 99129235</p>
-    <img src="Meu projeto.jpg" />
-    <p> Tem o objetivo de atuar na área da Tecnologia da informação. Estudante, cursando o terceiro ano do ensino médio. <br>
-        Conhecimento em linguagens como Python e JavaScrip, buscando sempre melhorar. <a href="https://www.youtube.com/watch?v=HGTJBPNC-Gw">Ler mais!</a></p>
-    <h2>Súmario</h2>
-    <hr>
-    <div class="Grupo1">
-         <blockquote><li><u>Endereço</u></li></blockquote>
-         <blockquote><li><u>Experiência</u></li></blockquote>
-         <blockquote> <li><u>Competência</u></li></blockquote>
-         <blockquote><li><u>Formação Acadêmica</u></li></blockquote>
-         <br>
-         <H2><u>Endereço</u></H2>
-    </div>
-    <hr>
-    <p><b>Rua</b></p>
-    <blockquote>Av. Comendador José Geraldo</blockquote>
-    <p><b>Cidade</b></p>
-    <blockquote>Maceió</blockquote>
-    <p><b>Bairro</b></p>
-    <blockquote>Jacintinho</blockquote>
-    <a href="#topo">topo</a>
-    
-    <h2 id="Expe"><u>Experiência</u></h2>
-    <hr>
+    <form>
+        <H1>Travel revervation form</H1>
+        <b> Full name:</b><br>
+        <input type="text" placeholder="Type your name" pattern="[a-zA-Z{1}]" required>
+        <br>
+        <b>Email address</address></b><br>
+        <input type="text" placeholder="Type your email" required>
+        <br>
+        <b>Select tour Package:</b><br>
+        <select name="cor">
+            <option value="">Goa</option>
+        </select>
+        <br>
+        <b>Arrival date:</b><br>
+        <input type="date" name="data" id="" required>
+        <br>
+        <b>Number of persons:</b><br>
+        <input type="number" min="1" max="10">
+        <br>
+        <b>What would you want to avail?</b><br>
+        Boarding<input type="checkbox" name="Lugar" value="Boarding">
+        Fooding<input type="checkbox" name="Lugar" value="Fooding" >
+        Sight seeing<input type="checkbox" name="Lugar" value="Sight seeing">
+        <br>
+        <b>Discout Coupon code:</b><br>
+        <input type="text">
+        <br>
+        <b>Terms and conditions</b><br>
+        I agree<input type="radio" name="escolhe" value="I agree">
+        I disagree <input type="radio" name="escolhe" value="I disagree">
+        <br>
+        <br>
+        <input type="submit" value="TO SEND">
+    </form>
 
-        <p id="Titulo"><u>CTI IFAL CAMPUS PALMEIRA</u></p>
-        <blockquote>Estagiaria</blockquote>
-        <blockquote>2023</blockquote>
-        <a href="#topo">topo</a>
-        <H2 id="Compe">Competência</H2>
-        <hr>
-
- 
-    <blockquote><li>Python</li></blockquote>
-    <blockquote><li>JavaScrip</li></blockquote>
-    <a href="#topo"></a>
-    <h2 id="Forma">Formação Acadêmica</h2>
-    <hr>
-
-    <a href="https://www2.ifal.edu.br/">Instituto Federal de Alagoas</a>
-    <p> Cursando o terceiro ano do ensino médio.</p>
-    <p>2021-2023</p>
-
-    <a href="#topo">topo</a>
-    <br>
-    &copy;2023
 
 </body>
 </html>
