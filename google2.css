@@ -127,6 +127,7 @@ tr, th {
 input{
     width: 500px;
     height: 50px;
+    border-radius: 10px;
 }
 
 .button {
