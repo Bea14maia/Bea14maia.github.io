@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="forbox2.css">
+</head>
+<body>
+    <h1>Survey Form</h1>
+
+    <div class="form">
+        <form action="">
+            <b>Let us know how we can improve FreeCodeCamp</b>
+            <br><br>
+            <b>Name:</b>
+            <input type="text" placeholder="Enter your name" required>
+            <br><br>
+            <b>Email:</b>
+            <input type="email" placeholder="Enter your email" required>
+            <br><br>
+            <b>Age:</b>
+            <input type="number" placeholder="Age" required min="1" max="100">
+            <br><br>
+            <b>Which option best describes your current role?</b>
+            <select name="best">
+                <option value="Student">Student</option>
+                <option value="Teacher">Teacher</option>
+            </select>
+            <br><br>
+            <b>how likely is that you would recommend freeCoderCamp to a friend?</b>
+            <br>
+            <div class="escolher">
+                Definitely<input type="radio" name="escolhe" value="Definitely"> <br>
+                Maybe<input type="radio" name="escolhe" value="Maybe"><br>
+                Not sure<input type="radio" name="escolhe" value="Not sure">
+            </div>
+            <br><br>
+            <b>What do you like most in FCC: </b>
+            <select name="best">
+                <option value="a">Select an option</option>
+            </select>
+            <br><br>
+            <b>Things that should be improved in the future <br>(Check all that apply)</b>
+            <br>
+            <div class="opçao" aria-required="true" min="1">
+                Front-end Projects<input type="checkbox" name="Lugar" value="Front-end Projects"><br>
+                Back-end Projects<input type="checkbox" name="Lugar" value="Back-end Projects" ><br>
+                Data Visualization<input type="checkbox" name="Lugar" value="Data Visualization">
+            </div>
+        </form>
+    </div>
+</body>
+</html>

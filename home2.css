@@ -1,0 +1,32 @@
+img {
+  margin-left: 50px;
+}
+
+h1, h2, a {
+    color: azure;   
+}
+
+h1 {
+    margin-left: 300px;
+}
+
+h2 {
+    margin-left: 270px;
+}
+
+
+figcaption {
+    margin-left: 50px;
+    color: azure;
+}
+
+.text, p {
+    width: 80%;
+    text-align: justify;
+    margin-left: 50px;
+    color: azure;
+}
+
+body {
+    background: linear-gradient(150deg, #51a5f4, #03203c);
+}
