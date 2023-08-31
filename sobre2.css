@@ -1,0 +1,30 @@
+.lista ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
+.container .parte1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 50px 200px ;
+  }
+  .parte1 div {
+    background-color:cadetblue;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.container .parte2 {
+    display: grid;
+    grid-template-columns: auto auto ;
+    grid-template-rows: 50px 200px ;
+}
+
+.parte2 div {
+    background-color:cadetblue;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
