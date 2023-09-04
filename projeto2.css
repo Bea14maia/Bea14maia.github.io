@@ -8,11 +8,14 @@ body {
     grid-template-columns: auto auto auto;
     grid-template-rows: auto auto auto auto ;
     gap: 10px;
+  
+    
   }
 
 .container {
     background-color: black;
     border-color: black;
+    height: 100;
 }
 
 
@@ -21,6 +24,14 @@ body {
     padding: 20px;
     border: 1px solid rgb(206, 172, 107);
     border-radius: 15px;
+  }
+
+  
+  @media screen and (max-width: 768px) {
+    .container .box {
+        display: block;
+    }
+    
   }
 
   #titulo {
@@ -38,4 +49,10 @@ a {
 
 #titulo H4 {
     height: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.box div:hover{
+  background-color: rgb(181, 169, 169);
 }

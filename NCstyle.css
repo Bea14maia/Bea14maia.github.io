@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a, p{
+    color: white;
+    text-decoration: none;
+}
+
+#bia {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;   
+    background-color:black; 
+    height: 8vh; 
+}
+
+.dov {
+    background-color:rgb(65, 109, 111);
+    height: 92vh;
+}
+
+img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        border: 5px solid white;
+}
+
+.dov  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+
+.nav-list {
+    list-style: none;
+    display: flex;
+}
+
+.nav-list li {
+    letter-spacing: 3px;
+    margin-left: 50px;
+}
+
+
+figcaption {
+    color: white;
+    text-align: center;
+}
+
+a:hover {
+    color: aqua;
+}
+
+
+
