@@ -1,0 +1,26 @@
+.navbar {
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    z-index: 1;
+}
+
+.Caixa {
+    background: url(https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGZvb2QlMjBqYXBhbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60) fixed;
+    background-size: cover;
+    height: 80vh;   
+}
+
+.Titulo {
+    background: rgba(0,0,0,.5);
+    border-radius: 10px;
+    color: white;
+}
+
+.container3 img {
+    border: 5px solid black;
+    border-radius:  15px;
+}
+
+
+

@@ -1,0 +1,10 @@
+.faleconosco {
+    background: url(https://media.istockphoto.com/id/1461765388/pt/foto/pizza-delivery-man-giving-pizza-to-a-woman-on-a-doorstep.jpg?s=612x612&w=0&k=20&c=7mfpj3kZ797M7yjpeIXDjoAsli1cWZt_2RML4LdihXY=) fixed;
+    background-size: cover;   
+}
+
+.container{
+    background: rgba(0,0,0,.5);
+    border-radius: 10px;
+    color: white;
+}
