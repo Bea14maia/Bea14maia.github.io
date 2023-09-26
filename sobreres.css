@@ -17,10 +17,13 @@
     color: white;
 }
 
-.container3 img {
+.container2 img {
     border: 5px solid black;
-    border-radius:  15px;
+    border-radius: 10px;
 }
 
-
-
+.container4 img {
+    border: 5px solid black;
+    border-radius: 15px;
+    gap: 5px;
+}
