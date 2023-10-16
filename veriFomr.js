@@ -22,13 +22,13 @@
     }
 };
 
-// document.getElementById("limpar").addEventListener("click", function() {
-//     // Limpe os campos do formulário
-//     document.getElementById("nome").value = "";
-//     document.getElementById("data").value = "";
-//     document.getElementById("mae").value = "";
-//     document.getElementById("pai").value = "";
-//     document.getElementById("tele").value = "";
-//     document.getElementById("tel").value = "";
-//     document.getElementById("email").value = "";
-// });
+    function limpar () {
+     // Limpe os campos do formulário
+     document.getElementById("nome").value = "";
+     document.getElementById("data").value = "";
+     document.getElementById("mae").value = "";
+     document.getElementById("Pai").value = "";
+     document.getElementById("tele").value = "";
+     document.getElementById("tel").value = "";
+     document.getElementById("email").value = "";
+ };
