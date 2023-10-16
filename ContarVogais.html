@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contar Vogais</title>
+
+    <style>
+        .center {
+            height: 350px;
+            width: 350px;
+            text-align: center;
+            background-color: darkgrey;
+            border: solid 5px black;
+            position: absolute;
+            padding: 15px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+
+        }
+    </style>
+</head>
+<body>
+    <div class="center">
+        <h1>Contador de Vogais</h1>
+        <p>Digite uma frase ou palavra:</p>
+        <input type="text" id="entradaTexto">
+        <button onclick="contarVogais()">Contar Vogais</button>
+        <p id="resultado"></p>
+    </div>
+
+    <script>
+        function contarVogais() {
+            let entradaTexto = document.getElementById("entradaTexto").value;
+            let vogais = entradaTexto.match(/[aeiouAEIOU]/g);
+
+            if (vogais) {
+                document.getElementById("resultado").textContent = "Número de vogais na string: " + vogais.length;
+            } else {
+                document.getElementById("resultado").textContent = "Nenhuma vogal encontrada na string.";
+            }
+        }
+    </script>
+</body>
+</html>

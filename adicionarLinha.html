@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Insert row in a table - w3resource</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    input[type="text"], button {
+      display: block;
+      margin: 10px;
+    }
+
+  </style>
+</head>
+<body>
+  <input type="text" id="txtNumRows" />
+  <button id="jsAddRows" onclick="jsAddRows()">Add Rows</button>
+  <table id="sampleTable" border="1">
+    <tr>
+      <td>Row1 cell1</td>
+      <td>Row1 cell2</td>
+    </tr>
+    <tr>
+      <td>Row2 cell1</td>
+      <td>Row2 cell2</td>
+    </tr>
+  </table><br>
+  <br>
+  <p id="errorMessage"></p>
+
+  <script>
+    function jsAddRows() {
+      let inputElement = document.getElementById("txtNumRows");
+      let inputValue = inputElement.value;
+      let table = document.getElementById("sampleTable");
+
+      if (isNaN(inputValue) || inputValue < 1 || inputValue > 10) {
+        alert("Valores válidos são entre 1 e 10. Digite um número válido.");
+      } else {
+        for (let i = 0; i < inputValue; i++) {
+          let newRow = table.insertRow(-1);
+          let cell1 = newRow.insertCell(0);
+          let cell2 = newRow.insertCell(1);
+          cell1.innerHTML = "Nova célula1";
+          cell2.innerHTML = "Nova célula2";
+        }
+      }
+
+      // Limpa o campo de entrada
+      inputElement.value = "";
+    }
+  </script>
+</body>
+</html>
