@@ -12,10 +12,10 @@
         "dimensions": {
           "width": 13.6,
           "height": 21,
-          "unit": "CENTIMETER"
+          "unit": "Centímetro"
         },
         "year": 2019,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 368,
         "subjects": [
           "romance",
@@ -41,10 +41,10 @@
         "dimensions": {
           "width": 14.3,
           "height": 1.7,
-          "unit": "CENTIMETER"
+          "unit": "Físico"
         },
         "year": 2008,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 224,
         "subjects": [
           "Literatura infantojuvenil",
@@ -70,10 +70,10 @@
         "dimensions": {
           "width": 15,
           "height": 22.6,
-          "unit": "CENTIMETER"
+          "unit": "Centímetro"
         },
         "year": 2009,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 96,
         "subjects": [
           "Literatura Frncesa",
@@ -100,10 +100,10 @@
         "dimensions": {
           "width": 22.8,
           "height": 15.6,
-          "unit": "CENTIMETER"
+          "unit": "Centímetro"
         },
         "year": 2003,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 432,
         "subjects": [
           "Romance",
@@ -129,10 +129,10 @@
         "dimensions": {
           "width": 21.4,
           "height": 13.6,
-          "unit": "CENTIMETER"
+          "unit": "Centímetro"
         },
         "year": 1813,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 424,
         "subjects": [
           "Romance",
@@ -157,7 +157,7 @@
         "dimensions": {
           "width": 22.6,
           "height": 15.6,
-          "unit": "CENTIMETER"
+          "unit": "Centímetro"
         },
         "year": 2018,
         "format": "Físico",
@@ -187,7 +187,7 @@
         "dimensions": {
           "width": 22.8,
           "height": 15.8,
-          "unit": "centímetro"
+          "unit": "Centímetro"
         },
         "year": 2012,
         "format": "Físico",
@@ -218,7 +218,7 @@
           "unit": "Centímetro"
         },
         "year": 2008,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 431,
         "subjects": [
           "Software"
@@ -245,7 +245,7 @@
           "unit": "Centímetro"
         },
         "year": 2018,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 320,
         "subjects": [
           "Romance",
@@ -271,10 +271,10 @@
         "dimensions": {
           "width": 20.8,
           "height": 13.8,
-          "unit": "centímetro"
+          "unit": "Centímetro"
         },
         "year": 1938,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 176,
         "subjects": [
           "Literatura Brasileira",
