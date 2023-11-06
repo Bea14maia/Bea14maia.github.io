@@ -160,7 +160,7 @@
           "unit": "CENTIMETER"
         },
         "year": 2018,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 322,
         "subjects": [
           "Aventura",
@@ -190,7 +190,7 @@
           "unit": "CENTIMETER"
         },
         "year": 2012,
-        "format": "PHYSICAL",
+        "format": "Físico",
         "page_count": 320,
         "subjects": [
           "Romance",
@@ -215,7 +215,7 @@
         "dimensions": {
           "width": 17.78,
           "height": 2.79,
-          "unit": "CENTIMETER"
+          "unit": "Centímetro"
         },
         "year": 2008,
         "format": "PHYSICAL",
@@ -242,7 +242,7 @@
         "dimensions": {
           "width": 13.5,
           "height": 1.8,
-          "unit": "CENTIMETER"
+          "unit": "Centímetro"
         },
         "year": 2018,
         "format": "PHYSICAL",
