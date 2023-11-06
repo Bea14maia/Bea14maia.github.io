@@ -1,0 +1,289 @@
+[
+    {
+        "isbn": "978-85-01-11768-7",
+        "title": "Assim que acaba",
+        "subtitle": null,
+        "authors": [
+          "Collen Hoover"
+          
+        ],
+        "publisher": "Galera Record",
+        "synopsis": "Em É assim que acaba, Colleen Hoover nos apresenta Lily, uma jovem que se mudou de uma cidadezinha do Maine para Boston, se formou em marketing e abriu a própria floricultura. E é em um dos terraços de Boston que ela conhece Ryle, um neurocirurgião confiante, teimoso e talvez até um pouco arrogante, com uma grande aversão a relacionamentos, mas que se sente muito atraído por ela.",
+        "dimensions": {
+          "width": 13.6,
+          "height": 21,
+          "unit": "CENTIMETER"
+        },
+        "year": 2019,
+        "format": "PHYSICAL",
+        "page_count": 368,
+        "subjects": [
+          "romance",
+          "ficção",
+          "jovem adulto",
+          "violência"
+          
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url":"https://a-static.mlcdn.com.br/1500x1500/livro-e-assim-que-acaba-colleen-hoover/magazineluiza/222664000/ecfde6ddea68696dc984e8acb7290af1.jpg" ,
+        "provider": "cbl"
+      },
+      {
+        "isbn": "9788576831303",
+        "title": "Diário de um Banana",
+        "subtitle": null,
+        "authors": [
+          "Jeff Kinney "
+        ],
+        "publisher": "VR Editora",
+        "synopsis": "Não é fácil ser criança. E ninguém sabe disso melhor do que Greg Heffley, que se vê mergulhado no mundo do ensino fundamental, onde fracotes são obrigados a dividir os corredores com garotos mais altos, mais malvados e que já se barbeiam. Em Diário de um Banana, o autor e ilustrados Jeff Kinney nos apresenta um herói improvável. Como Greg diz em seu diário. Só não espere que seja todo Querido Diário isso, Querido Diário aquilo. Para nossa sorte, o que Greg Heffley diz que fará e o que ele realmente faz são duas coisas bem diferentes.",
+        "dimensions": {
+          "width": 14.3,
+          "height": 1.7,
+          "unit": "CENTIMETER"
+        },
+        "year": 2008,
+        "format": "PHYSICAL",
+        "page_count": 224,
+        "subjects": [
+          "Literatura infantojuvenil",
+          "Amizade",
+          "Aventura"
+          
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/3/3d/Diario_de_um_banana1.jpg",
+        "provider": "cbl"
+      },
+    
+      {
+        "isbn": "8595081514",
+        "title": "O Pequeno Príncipe",
+        "subtitle": null,
+        "authors": [
+          "Antoine de Saint-Exupéry"
+        ],
+        "publisher": "Agir",
+        "synopsis": "Nesta história que marcou gerações de leitores em todo o mundo, um piloto cai com seu avião no deserto do Saara e encontra um pequeno príncipe, que o leva a uma aventura filosófica e poética através de planetas que encerram a solidão humana.",
+        "dimensions": {
+          "width": 15,
+          "height": 22.6,
+          "unit": "CENTIMETER"
+        },
+        "year": 2009,
+        "format": "PHYSICAL",
+        "page_count": 96,
+        "subjects": [
+          "Literatura Frncesa",
+          "Literatura infantojuvenil",
+          "Aventura",
+          "fábula",
+          "Reflexão"
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url": "https://www.garamond.com.br/wp-content/uploads/2019/02/Capa_principe_sites.jpg",
+        "provider": "cbl"
+      },
+    
+      {
+        "isbn": "8575421131",
+        "title": "O Código Da Vinci",
+        "subtitle": null,
+        "authors": [
+          " Dan Brown "
+        ],
+        "publisher": "Editora Arqueiro",
+        "synopsis": "Um assassinato no museu do Louvre em Paris e pistas enigmáticas em alguns dos quadros mais famosos de Leonardo DaVinci levam à descoberta de um mistério religioso. Por mais de dois mil anos, uma sociedade secreta guarda informações que, se descobertas, poderiam comprometer o cristianismo. Robert Langdon, um professor especialista em simbologia e história, se envolve na investigação.",
+        "dimensions": {
+          "width": 22.8,
+          "height": 15.6,
+          "unit": "CENTIMETER"
+        },
+        "year": 2003,
+        "format": "PHYSICAL",
+        "page_count": 432,
+        "subjects": [
+          "Romance",
+          "Suspense",
+          "Mistério",
+          "Ficção policial"
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url":"https://livrariacirkula.com.br/static/844384.png",
+        "provider": "cbl"
+      },
+    
+      {
+        "isbn": "8544001823",
+        "title": "Orgulho e Preconceito",
+        "subtitle": null,
+        "authors": [
+          "Jane Austen"
+        ],
+        "publisher": "Martin Claret",
+        "synopsis": "Elizabeth Bennet vive com sua mãe, pai e irmãs no campo, na Inglaterra. Por ser uma das filhas mais velhas, ela enfrenta uma crescente pressão de seus pais para se casar. Quando Elizabeth é apresentada ao belo e rico Darcy, faíscas voam. Embora haja uma química óbvia entre os dois, a natureza excessivamente reservada de Darcy ameaça a relação.",
+        "dimensions": {
+          "width": 21.4,
+          "height": 13.6,
+          "unit": "CENTIMETER"
+        },
+        "year": 1813,
+        "format": "PHYSICAL",
+        "page_count": 424,
+        "subjects": [
+          "Romance",
+          "Época",
+          "Literatura estrangeira"
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url": "https://www.antofagica.com.br/wp-content/uploads/2021/06/ATF_3OrgulhoPreconceito_2CadastroSite.png",
+        "provider": "cbl"
+      },
+    
+      {
+        "isbn": "978-8501115553",
+        "title": "O príncipe cruel",
+        "subtitle": null,
+        "authors": [
+          " Holly Black"
+        ],
+        "publisher": "Galera",
+        "synopsis": "Jude tinha 7 anos quando seus pais foram assassinados e foi forçada a viver no Reino das Fadas. Dez anos depois, tudo o que ela quer é ser como eles – lindos e imortais – e realmente pertencer ao Reino das Fadas, apesar de sua mortalidade. Mas muitos do povo das Fadas desprezam os humanos.",
+        "dimensions": {
+          "width": 22.6,
+          "height": 15.6,
+          "unit": "CENTIMETER"
+        },
+        "year": 2018,
+        "format": "PHYSICAL",
+        "page_count": 322,
+        "subjects": [
+          "Aventura",
+          "Drama",
+          "Aventura",
+          "Folclore",
+          "fada"
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url": "https://m.media-amazon.com/images/I/913FVnW0yQL._AC_UL320_.jpg",
+        "provider": "cbl"
+      },
+    
+      {
+        "isbn": "8580573297",
+        "title": "Como eu era antes de você",
+        "subtitle": null,
+        "authors": [
+          " Jojo Moyes "
+        ],
+        "publisher": "Intrínseca",
+        "synopsis": "De origem modesta e sem grandes aspirações, a peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico.",
+        "dimensions": {
+          "width": 22.8,
+          "height": 15.8,
+          "unit": "CENTIMETER"
+        },
+        "year": 2012,
+        "format": "PHYSICAL",
+        "page_count": 320,
+        "subjects": [
+          "Romance",
+          "Drama",
+          "molancólico"
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url": "https://m.media-amazon.com/images/I/81-P6oEm8cL._AC_UF1000,1000_QL80_.jpg",
+        "provider": "cbl"
+      },
+    
+      {
+        "isbn": "9780132350884",
+        "title": "Clean Code",
+        "subtitle": null,
+        "authors": [
+          "Robert C. Martin", " Michael C. Feathers "," Timothy R. Ottinger (Autor)"
+        ],
+        "publisher": "Japorama Editora e Comunicação",
+        "synopsis": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+        "dimensions": {
+          "width": 17.78,
+          "height": 2.79,
+          "unit": "CENTIMETER"
+        },
+        "year": 2008,
+        "format": "PHYSICAL",
+        "page_count": 431,
+        "subjects": [
+          "Software"
+    
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url": "https://m.media-amazon.com/images/I/51E2055ZGUL._AC_UF1000,1000_QL80_.jpg",
+        "provider": "cbl"
+      },
+    
+      {
+        "isbn": "8501117846",
+        "title": "Verity",
+        "subtitle": null,
+        "authors": [
+          "Collen Hoover"
+        ],
+        "publisher": "Galera",
+        "synopsis": "Quanto mais o tempo passa, mais Lowen se percebe envolvida em uma confusa rede de mentiras e segredos, e, lentamente, adquire sua própria posição no jogo psicológico que rodeia aquela casa. Emocional e fisicamente atraída por Jeremy, ela precisa decidir: expor uma versão que nem ele conhece sobre a própria esposa ou manter o sigilo dos escritos de Verity?",
+        "dimensions": {
+          "width": 13.5,
+          "height": 1.8,
+          "unit": "CENTIMETER"
+        },
+        "year": 2018,
+        "format": "PHYSICAL",
+        "page_count": 320,
+        "subjects": [
+          "Romance",
+          "Drama",
+          "ficção"
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url":"https://img.travessa.com.br/livro/GR/5f/5fe30e1c-3460-4e5c-80f8-654cf7a4a04a.jpg",
+        "provider": "cbl"
+      },
+    
+    
+      {
+        "isbn": "8501114782",
+        "title": "Vidas Secas",
+        "subtitle": null,
+        "authors": [
+          "Graciliano Ramos "
+        ],
+        "publisher": "Japorama Editora e Comunicação",
+        "synopsis": "Vidas secas retrata a vida miserável de uma família de retirantes sertanejos obrigada a se deslocar de tempos em tempos para áreas menos castigadas pela seca. O pai, Fabiano, caminha pela paisagem árida da caatinga do Nordeste brasileiro com a sua mulher, Sinha Vitória, e os dois filhos, que não têm nome, sendo chamados apenas de “filho mais velho” e “filho mais novo”. São também acompanhados pela cachorrinha da família, Baleia, cujo nome é irônico, pois a falta de comida a fez muito magra.",
+        "dimensions": {
+          "width": 20.8,
+          "height": 13.8,
+          "unit": "CENTIMETER"
+        },
+        "year": 1938,
+        "format": "PHYSICAL",
+        "page_count": 176,
+        "subjects": [
+          "Literatura Brasileira",
+          "Drama",
+          "Época"
+        ],
+        "location": "SÃO PAULO, SP",
+        "retail_price": null,
+        "cover_url": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/25b865bc58583992582f49bc2a98195f90afe12c.jpg",
+        "provider": "cbl"
+      }
+    ]
