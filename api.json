@@ -187,7 +187,7 @@
         "dimensions": {
           "width": 22.8,
           "height": 15.8,
-          "unit": "CENTIMETER"
+          "unit": "centímetro"
         },
         "year": 2012,
         "format": "Físico",
@@ -271,7 +271,7 @@
         "dimensions": {
           "width": 20.8,
           "height": 13.8,
-          "unit": "CENTIMETER"
+          "unit": "centímetro"
         },
         "year": 1938,
         "format": "PHYSICAL",
